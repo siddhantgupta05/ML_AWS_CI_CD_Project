@@ -1,9 +1,14 @@
 # End to End Machine Learning Project using AWS_CI_CD Pipelines
 
-1. Docker Build checked
-2. Github Workflow
-3. IAM User In AWS
-4. ECR Repository
+1. Main code
+2. Docker Build checked
+3. GitHub Workflow
+4. IAM User In AWS
+5. ECR Repository
+6. EC2 Instance - Docker Setup
+7. GitHub Action Runner
+8. Repository Secrets
+9. Run Continuous Integration -- Continuous Delivery -- Continuous Deployment
 
 ## Docker Setup In EC2 commands to be Executed
 
