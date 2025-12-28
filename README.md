@@ -1,4 +1,4 @@
-## End to End Machine Learning Project using AWS_CI_CD Pipelines
+# End to End Machine Learning Project using AWS_CI_CD Pipelines
 
 1. Docker Build checked
 2. Github Workflow
@@ -7,13 +7,13 @@
 
 ## Docker Setup In EC2 commands to be Executed
 
-# optional
+### optional
 
 sudo apt-get update -y
 
 sudo apt-get upgrade
 
-# Required
+### Required
 
 curl -fsSL https://get.docker.com -o get-docker.sh
 
